@@ -1,7 +1,7 @@
 {
     "name": "historia",
     "preductname": "Historia Launcher",
-    "version": "1.0.5",
+    "version": "1.0.0",
     "description": "Launcher Mincraft pour le serveur historia",
     "main": "src/app.js",
     "author": {
@@ -39,6 +39,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/TchoupsPlaceheberg/historia.git"
+        "url": "git+https://github.com/TchoupsPlaceheberg/Historia-launcher.git"
     }
 }
